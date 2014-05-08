@@ -1,0 +1,3 @@
+Welchen Vorteil hat ein Remote-Repository?
+
+Alle Programmierer, die an der Entwicklung beteiligt sind, können sich das aktuelle Repository kopieren.
