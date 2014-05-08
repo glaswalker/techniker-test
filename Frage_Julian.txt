@@ -1,0 +1,2 @@
+Wie lautet der Standart Alias der Adresse vom Online Repository nach einem git clone?
+- origin

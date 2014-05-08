@@ -1,0 +1,8 @@
+1. Wie kann man den aktuellen HEAD auslesen?
+	git branch (gibt Liste aus und der aktuelle Branch wird mit einem Stern markiert)
+
+2. Wie kann man das Staging-Area vor dem Wechsel in einen neuen Branch sichern?
+	git stash (mit git stash pop kann es wieder augegeben werden)
+
+3. Was macht der Befehl git clone?
+	erzeugt durch durch das kopieren eines remote Repositorys in einem Verzeichnis eins neues working directory
