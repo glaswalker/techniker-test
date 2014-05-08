@@ -1,4 +1,4 @@
-1. Wie sieht kann man den aktuellen HEAD auslesen?
+1. Wie kann man den aktuellen HEAD auslesen?
 	git branch (gibt Liste aus und der aktuelle Branch wird mit einem Stern markiert)
 
 2. Wie kann man das Staging-Area vor dem Wechsel in einen neuen Branch sichern?
