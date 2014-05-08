@@ -1,0 +1,2 @@
+Was macht der Befehl "git rm --cached PATH/TO/FILE.txt"?
+Antwort: Löscht die Datei aus der Repository
