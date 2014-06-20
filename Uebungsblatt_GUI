@@ -1,0 +1,35 @@
+Technikerschule Erlangen							Y.Fitzgerald
+Softwareentwicklung
+
+
+
+				Übungen(2) zu git- Thema: Git Gui
+
+
+	
+1.Aufgabe: Englische Kommandos in der GitGui
+
+	Löschen von Programm_Files\Git\share\git-gui\lib\msgs\* 
+
+	oder aber:
+
+	Computer ? Properties ? Advanced ? New environment Variable 
+			name=LANG value=en
+
+	und restart
+
+2.Aufgabe: Short cut erzeugen und remote Database einbinden
+
+	GitGui starten
+	Existing Repository öffnen 
+	(hier Verzeichnis das als Working Area für Remote techniker-test Repository 	
+	dient angeben)
+	Unter Repository ? Create Icon 
+
+	Unter Remote-> Add ?  https://github.com/yfitz/techniker-test angeben. 
+	Mit fetch.
+
+3.Aufgabe: 
+
+	
+
