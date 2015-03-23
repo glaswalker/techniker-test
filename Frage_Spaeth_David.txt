@@ -1,4 +1,0 @@
-Wie lässt man sich die Branches anzeigen?
-
--mit git branch.
--der * zeigt den aktuell aktiven Branch an.

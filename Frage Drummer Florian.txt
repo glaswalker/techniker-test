@@ -1,2 +1,0 @@
-Wie verlässt man git log?
-	mit :q und enter
