@@ -6,3 +6,6 @@
 
 3. Was macht der Befehl git clone?
 	erzeugt durch durch das kopieren eines remote Repositorys in einem Verzeichnis eins neues working directory
+
+4. Mit welchem Befehl holt man sich die Version ins Working Directory von remote?
+	get fetch 
